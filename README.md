@@ -14,4 +14,4 @@ I used newest css feature in this site. Here is some of them:
     5.Responsiveness & good look in every device
 
 
-This site is live here https://nasimuddin.netlify.com/
+This site is live here. 
