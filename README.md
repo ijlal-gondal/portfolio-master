@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 This is my portfolio completely made with html & css.
 No framework & library used here.
 I used newest css feature in this site. Listed below are some of them:
