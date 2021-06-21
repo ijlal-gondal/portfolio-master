@@ -1,7 +1,7 @@
 # Portfolio
 This is my portfolio exclusively built with HTML & CSS.
 No framework & library used here.
-I used newest css feature in this site. Listed below are some of them:
+I have utilized css features. Listed below are some of them:
 
     1.CSS Grid
 
