@@ -1,5 +1,5 @@
 # Portfolio
-This is my portfolio completely made with html & css.
+This is my portfolio exclusively built with HTML & CSS.
 No framework & library used here.
 I used newest css feature in this site. Listed below are some of them:
 
